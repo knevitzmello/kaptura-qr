@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GeradorQR2
+comment1.params=caminho
+comment1.target=GeradorQR2(java.lang.String)
+comment2.params=operador
+comment2.target=void\ imprimeOperador(java.lang.String)
+comment3.params=operador\ flag
+comment3.target=void\ imprimeOperador(java.lang.String,\ boolean)
+comment4.params=dado
+comment4.target=java.awt.image.BufferedImage\ gerarQR(java.lang.String)
+comment5.params=dados
+comment5.target=void\ compilaImagens(java.lang.String[])
+comment6.params=a\ b
+comment6.target=boolean\ isEvenlyDivisable(int,\ int)
+comment7.params=pagina\ imagens
+comment7.target=void\ geraImagemCompilada(int,\ java.util.List)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Compilador
+comment1.params=
+comment1.target=Compilador()
+comment2.params=caminho
+comment2.target=void\ setCaminho(java.lang.String)
+comment3.params=bi\ caminho\ largura\ altura\ quantidade
+comment3.target=void\ compila(java.awt.image.BufferedImage,\ java.lang.String,\ int,\ int,\ int)
+numComments=4

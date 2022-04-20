@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GeradorQR
+comment1.params=caminho
+comment1.target=GeradorQR(java.lang.String)
+comment2.params=dadosRecebidos\ nome
+comment2.target=void\ gerarQR(java.lang.String[],\ java.lang.String)
+comment3.params=dados\ nome\ pagina
+comment3.target=void\ imprimeQR(java.lang.String[],\ java.lang.String,\ int)
+comment4.params=dado
+comment4.target=void\ gerarQR(java.lang.String)
+comment5.params=
+comment5.target=void\ deleta()
+numComments=6

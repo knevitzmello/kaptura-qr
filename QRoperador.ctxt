@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=QRoperador
+comment1.params=
+comment1.target=QRoperador()
+comment2.params=
+comment2.target=void\ GUI()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=strNum
+comment6.target=boolean\ isNumeric(java.lang.String)
+numComments=7
