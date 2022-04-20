@@ -1,12 +1,1 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+This is a QRcode generator made in JAVA. It takes the fields filled in the GUI and builds the QRcode with them. It divides the "Quantidade" field by the "Divisor" and the result will be the total number of QRcodes printed. They are also arranged in a A4 page ready to print. 
